@@ -1,18 +1,19 @@
-# Nome do projeto
+# Desafios da Privacidade Individual em Cidades Inteligentes
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+Investigar os desafios da privacidade em cidades inteligentes,
+analisando soluções tecnológicas e políticas para proteger dados
+pessoais e garantir segurança, sem comprometer a eficiência e o
+desenvolvimento urbano inteligente.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Ana Clara Iannini de Resende Duarte
+* Arthur Clemente Machado
 
 ## Professores responsáveis
 
-* Nome do professor 1
-* Nome do professor 2
-* Nome do professor 3
-* Nome do professor 3
+* Leonardo Vilela Cardoso
+
 
 ## Instruções de Replicação/Reprodução
 
