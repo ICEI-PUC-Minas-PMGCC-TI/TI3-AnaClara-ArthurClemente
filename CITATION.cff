@@ -2,10 +2,10 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: 
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
+  - family-names: Iannini de Resende Duarte
+    given-names: Ana Clara
+  - family-names: Clemente
+    given-names: Arthur
   - family-names: 
     given-names: 
   - family-names: 
@@ -14,7 +14,7 @@ authors:
     given-names: 
   - family-names: 
     given-names:
-  - name-suffix: Professor
+  - name-suffix: Leonardo
     affiliation: PUC Minas
     family-names: 
     given-names: 
@@ -23,9 +23,12 @@ authors:
     family-names: 
     given-names: 
 keywords:
-  - 
-  - 
-repository-code: 
+  - Tecnologia
+  - IOT
+  - Cidades Inteligentes
+  - Segurança de Dados
+  - Privacidade
+repository-code: https://github.com/ICEI-PUC-Minas-PMGCC-TI/TI3-AnaClara-ArthurClemente
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2024-12-05
